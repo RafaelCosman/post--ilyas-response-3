@@ -16,7 +16,7 @@
         <div style="padding:5px">
         <div style="font-size: 20px; padding-bottom: 10px; border-bottom: 1px solid black;"><b>Ensembles</b></div>
           <p  style="padding-top:10px">
-            The work of Tsipras et al <d-cite key="tsipras2018robustness"></d-cite> suggests a collection of non-robust and non-useful features, if sufficiently uncorrelated, can be ensembled into a single useful, non-robust useful feature <Marker letter="f"/>. 
+            The work of Tsipras et al <d-cite key="tsipras2018robustness"></d-cite> suggests a collection of non-robust and non-useful features, if sufficiently uncorrelated, can be ensembled into a single non-robust, useful feature <Marker letter="f"/>. 
           </p>
         </div>
 
